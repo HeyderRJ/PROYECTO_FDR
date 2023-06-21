@@ -1,6 +1,5 @@
 # <center>CR5Robot</center>
-
-Chinese version of the README -> please [click here](./README-CN.md)
+Proyecto Final de Fundamentos de Robotica, basados en el Dobot CR5
 
 # Building
 ## ubuntu16.04
